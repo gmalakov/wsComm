@@ -1,0 +1,9 @@
+name: wscomm
+description: WebSocket communication library
+dependencies:
+  browser: any
+  cookie: any
+  cookies: any
+  crypto: any
+  tools:
+    path: ../tools
